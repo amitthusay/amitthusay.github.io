@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Amit's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "My Resume & Engineering Projects"
+description: "A showcase of my resume and engineering projects"
+baseurl: ""
+theme: minima
