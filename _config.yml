@@ -1,11 +1,11 @@
 title: "Amit Thusay's Portfolio"    # Site title
 author: "Amit Thusay"               # Your name
 description: "Showcasing my engineering projects, skills, and experience."
-baseurl: ""                         # Leave empty for root
-url: "https://yourusername.github.io/my-portfolio" # Replace with your GitHub Pages URL
 
 # Theme
 remote-theme: sighingnow/jekyll-gitbook        # Use GitBook theme
+
+syntax_highlighter_style: colorful
 
 # Navigation
 nav:
