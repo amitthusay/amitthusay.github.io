@@ -1,26 +1,56 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site Settings
+title: "Your Name's Portfolio"    # The title of your website
+description: "Showcasing my engineering projects, skills, and experience." # Website description
+baseurl: ""                       # Base URL (leave empty for GitHub Pages root)
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+author:                           # Information about you
+  name: "Your Name"
+  email: "your.email@example.com"
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+# Social Links (Optional)
+social:
+  github: "https://github.com/yourusername"
+  linkedin: "https://www.linkedin.com/in/yourprofile"
+  twitter: "https://twitter.com/yourhandle"
 
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+# Theme Settings
+theme: jekyll-theme-minimal       # Choose a Jekyll theme (replace with your preferred theme)
+plugins:
+  - jekyll-feed                   # Enables RSS feeds
+  - jekyll-sitemap                # Automatically generates a sitemap
+  - jekyll-seo-tag                # Adds SEO tags to your website
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# Navigation Links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
 
-paginate:         5
+# SEO Settings
+lang: "en"                        # Language of the site
+robots: "index, follow"           # Meta robots tag for search engines
 
-# Custom vars
-version:          2.1.0
+# Markdown Settings
+markdown: kramdown
+kramdown:
+  input: GFM                      # Use GitHub Flavored Markdown
+highlighter: rouge                # Code syntax highlighting
 
-github:
-  repo:           https://github.com/poole/hyde
+# Pagination (Optional)
+paginate: 5                        # Number of posts per page (if using blog functionality)
+paginate_path: "/page:num/"
+
+# Build Settings
+exclude:
+  - "README.md"                   # Exclude README from the website
+  - "node_modules"                # Exclude any unnecessary files
+
+# Custom Variables (Optional)
+custom_vars:
+  tagline: "Engineer | Innovator | Problem Solver"
+  welcome_message: "Welcome to my online portfolio. Explore my projects and skills."
