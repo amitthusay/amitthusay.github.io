@@ -1,0 +1,27 @@
+title: "Amit Thusay's Portfolio"    # Site title
+author: "Amit Thusay"               # Your name
+description: "Showcasing my engineering projects, skills, and experience."
+baseurl: ""                         # Leave empty for root
+url: "https://yourusername.github.io/my-portfolio" # Replace with your GitHub Pages URL
+
+# Theme
+theme: jekyll-theme-gitbook         # Use GitBook theme
+
+# Navigation
+nav:
+  - title: "About Me"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Resume"
+    url: "/resume/"
+
+# Plugins
+plugins:
+  - jekyll-feed                     # RSS feed
+  - jekyll-seo-tag                  # SEO tags
+  - jekyll-sitemap                  # Sitemap generator
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
