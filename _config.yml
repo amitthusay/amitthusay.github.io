@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Portfolio"
+title                    : "Amit Thusay"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Amit Thusay"
@@ -88,21 +88,6 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
-# Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 # Analytics
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
@@ -113,7 +98,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Amit Thusay"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
