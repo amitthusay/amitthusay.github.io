@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -17,7 +17,13 @@ layout: archive
   {% include documents-collection.html entries=posts type=entries_layout %}
 </div>
 
-{% include paginator.html %}
-<!-- <h3>
+{% include paginator.html %} -->
+<h3>
+  <h3 class="archive__subtitle">About Me</h3>
 
-</h3> -->
+  <div class="about-me">
+    <p>Hello! I'm Amit Thusay, a second-year undergraduate pursuing a degree in Electrical & Computer Engineering. I'm passionate about sustainability, digital systems design, and solving real-world problems with innovative engineering solutions.</p>
+    
+    <p>When I'm not working on projects or coursework, I enjoy [insert hobbies or interests, e.g., "exploring the outdoors, experimenting with DIY electronics, and learning about new technologies"].</p>
+  </div>
+</h3>
