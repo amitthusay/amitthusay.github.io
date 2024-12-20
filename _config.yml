@@ -99,8 +99,8 @@ analytics:
 # Site Author
 author:
   name             : "Amit Thusay"
-  avatar           : "_images/avatar.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/avatar.jpg"
+  bio              : "Undergraduate Researcher"
   location         : "Cleveland, OH"
   email            : "amt272@case.edu"
   links:
