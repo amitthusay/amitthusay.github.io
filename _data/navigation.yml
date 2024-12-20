@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About Me"
-    url: _pages/about-me/
+    url: /about-me/
   - title: "CV"
-    url: _pages/cv/
+    url: /cv/
   - title: "Projects"
-    url: _pages/about-me/
+    url: /about-me/
