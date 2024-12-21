@@ -205,7 +205,6 @@ figure {
 
   img {
     width: 100%;
-    min-width: 160px;
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
@@ -240,6 +239,7 @@ figure {
       width: 100%;
     }
   }
+  min-width: 160px;
 }
 
 /* Figure captions */
