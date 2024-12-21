@@ -1,6 +1,9 @@
 # Projects
 ## Some Project 1
-- This will probably be for my ERIE Lab project
+- Haptic SAT Project
+- Summer Work
+- Semester Work
 
 ## Some Project 2
-- This will probably be for my SensRx Lab project
+- UTNS Project
+- Semester Work
