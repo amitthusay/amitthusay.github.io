@@ -1,4 +1,4 @@
-## Background
+## Background  
 Rising Second-Year Electrical Engineering student at CWRU with an interest in robotics, analog & digital circuit development, and semiconductor R&D.
 ## Education
 **BS Electrical Engineering**  
