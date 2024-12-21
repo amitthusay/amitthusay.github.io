@@ -18,7 +18,7 @@ Case Western Reserve University, Cleveland, OH
 **Undergraduate Rotator**, May 2024 – Present
 ### Overcashier & Horst Heating and Air Conditioning
 Sylvania, OH
-**Summer Intern**
+**Summer Intern**, July - August 2023
 ## TEACHING EXPERIENCE
 ### Introduction to Circuits and Instruments - ENGR 210
 Case Western Reserve University, Cleveland, OH
