@@ -1,8 +1,7 @@
 ## Some Project 1
-- Haptic SAT Project
-- Summer Work
-- Semester Work
+### Haptic-Enabled Switched Adapted Toy
+, ERIE Lab
 
 ## Some Project 2
-- UTNS Project
-- Semester Work
+### Ultrasonic Tibial Nerve Stimulating Device
+, SensRx Lab
