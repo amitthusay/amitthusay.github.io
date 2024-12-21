@@ -5,6 +5,7 @@ Rising Second-Year Electrical Engineering student at CWRU with an interest in ro
 **BS Electrical Engineering**  
 Case Western Reserve University, Cleveland, OH  
 Expected May 2027  
+  
 **High School Diploma**  
 St. John's Jesuit High School & Academy, Toledo, OH  
 2016-2023
