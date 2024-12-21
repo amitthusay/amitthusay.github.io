@@ -1,4 +1,3 @@
-# Projects
 ## Some Project 1
 - Haptic SAT Project
 - Summer Work
