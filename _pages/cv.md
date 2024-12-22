@@ -1,6 +1,5 @@
----
-title:   
----
+<h1></h1>
+
 ## Education
 **BS Electrical & Computer Engineering**  
 Case Western Reserve University, Cleveland, OH  
