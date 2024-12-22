@@ -1,8 +1,23 @@
----
-title:   
----
-### Haptic-Enabled Switched Adapted Toy
-- This project was done in ERIE LAB
+<h3>
+  <h3 class="archive__subtitle" style="margin-bottom: 10px; font-size: 1.5em; color: #fff;">About Me</h3>
 
-### Ultrasonic Tibial Nerve Stimulating Device
-- This project was done in SensRx LAB
+  <div class="about-me" style="margin-top: 20px; font-size: 0.8em; line-height: 1.6; color: #b3b3b3;">
+    <p style="margin-bottom: 10px;">
+      I'm currently a second-year undergraduate at Case Western Reserve University pursuing a degree in 
+      Electrical & Computer Engineering. I'm seeking summer internship or research opportunities in the 
+      defense & medical fields, and my current interests lie in digital and analog circuit design, as 
+      well as signal processing.
+    </p>
+    
+    <p style="margin-bottom: 10px;">
+      My research interests include haptic interfaces, sensors & displays; integrated circuits &
+      embedded systems development; design of bioelectronics, wearable devices, and signal processing
+      for medical applications.
+    </p>
+
+    <p style="margin-bottom: 10px;">
+      In my free time, I enjoy strength training, specifically free weight exercises; making all types
+      of coffee & pouring latte art; and cooking Mediterranean, East-Asian, and Italian cuisine.
+    </p>
+  </div>
+</h3>

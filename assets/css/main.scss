@@ -5,17 +5,5 @@ search: false
 
 @charset "utf-8";
 
-#page-title {
-    display: none;
-}
-
-#page__title {
-    display: none;
-}
-
-#headline {
-    display: none;
-}
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
