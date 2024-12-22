@@ -3,21 +3,7 @@
 
   <div class="about-me" style="margin-top: 20px; font-size: 0.8em; line-height: 1.6; color: #b3b3b3;">
     <p style="margin-bottom: 10px;">
-      I'm currently a second-year undergraduate at Case Western Reserve University pursuing a degree in 
-      Electrical & Computer Engineering. I'm seeking summer internship or research opportunities in the 
-      defense & medical fields, and my current interests lie in digital and analog circuit design, as 
-      well as signal processing.
-    </p>
-    
-    <p style="margin-bottom: 10px;">
-      My research interests include haptic interfaces, sensors & displays; integrated circuits &
-      embedded systems development; design of bioelectronics, wearable devices, and signal processing
-      for medical applications.
-    </p>
-
-    <p style="margin-bottom: 10px;">
-      In my free time, I enjoy strength training, specifically free weight exercises; making all types
-      of coffee & pouring latte art; and cooking Mediterranean, East-Asian, and Italian cuisine.
+      I'm probably just going to have to do this html thingy, it's probably not going to be consistent, but it'd be insane if someone noticed.
     </p>
   </div>
 </h3>
