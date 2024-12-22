@@ -1,6 +1,5 @@
-<h1></h1>
+<h2>Education</h2>
 
-## Education
 **BS Electrical & Computer Engineering**  
 Case Western Reserve University, Cleveland, OH  
 Expected May 2027  
