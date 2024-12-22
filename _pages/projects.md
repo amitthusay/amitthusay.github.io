@@ -1,3 +1,6 @@
+---
+Projects
+---
 ### Haptic-Enabled Switched Adapted Toy
 - This project was done in ERIE LAB
 
