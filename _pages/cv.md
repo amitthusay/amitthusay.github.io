@@ -7,7 +7,8 @@ Expected May 2027
 **High School Diploma**  
 St. John's Jesuit High School & Academy, Toledo, OH  
 2016-2023
-## Work Experience
+<h2>Work Experience</h2>
+
 ### SensRx Lab
 Case Western Reserve University, Cleveland, OH  
 **Researcher**, September 2024 - Present  
@@ -17,16 +18,21 @@ Case Western Reserve University, Cleveland, OH
 ### Overcashier & Horst Heating and Air Conditioning
 Sylvania, OH  
 **Summer Intern**, July - August 2023
-## Teaching Experience
+<h2>Teaching Experience</h2>
+
 ### Introduction to Circuits and Instruments - ENGR 210
 Case Western Reserve University, Cleveland, OH  
 **Lab Teaching Assistant**, January 2025 – Present
-## Personal Projects
+
+<h2>Personal Projects</h2>
+
 ### Discord Bot Development  
 May – August 2020  
 ### Titan Café POS  
 November 2021 – January 2022  
-## Other Activities
+
+<h2>Other Activities</h2>
+
 ### W8EDU, Radio Club at CWRU
 Case Western Reserve University, Cleveland, OH  
 **Licensed Radio Technician**
