@@ -7,35 +7,41 @@ Expected May 2027
 **High School Diploma**  
 St. John's Jesuit High School & Academy, Toledo, OH  
 2016-2023
+
 <h2>Work Experience</h2>
 
-### SensRx Lab
+<h3>SensRx Lab</h3>  
 Case Western Reserve University, Cleveland, OH  
 **Researcher**, September 2024 - Present  
-### Enhanced Robotic Interfaces and Experiences Lab
+
+<h3>Enhanced Robotic Interfaces and Experiences Lab</h3>  
 Case Western Reserve University, Cleveland, OH  
-**Undergraduate Rotator**, May 2024 – Present
-### Overcashier & Horst Heating and Air Conditioning
+**Undergraduate Rotator**, May 2024 – Present  
+
+<h3>Overcashier & Horst Heating and Air Conditioning</h3>  
 Sylvania, OH  
-**Summer Intern**, July - August 2023
+**Summer Intern**, July - August 2023  
+
 <h2>Teaching Experience</h2>
 
-### Introduction to Circuits and Instruments - ENGR 210
+<h3>Introduction to Circuits and Instruments - ENGR 210</h3>  
 Case Western Reserve University, Cleveland, OH  
-**Lab Teaching Assistant**, January 2025 – Present
+**Lab Teaching Assistant**, January 2025 – Present  
 
 <h2>Personal Projects</h2>
 
-### Discord Bot Development  
+<h3>Discord Bot Development</h3>  
 May – August 2020  
-### Titan Café POS  
+
+<h3>Titan Café POS</h3>  
 November 2021 – January 2022  
 
 <h2>Other Activities</h2>
 
-### W8EDU, Radio Club at CWRU
+<h3>W8EDU, Radio Club at CWRU</h3>  
 Case Western Reserve University, Cleveland, OH  
-**Licensed Radio Technician**
-### Delta Sigma Phi Fraternity
+**Licensed Radio Technician**  
+
+<h3>Delta Sigma Phi Fraternity</h3>  
 Case Western Reserve University, Cleveland, OH  
-**New Member Advisor**, Sergeant at Arms prior
+**New Member Advisor**, Sergeant at Arms prior  
