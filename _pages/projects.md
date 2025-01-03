@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Image Hover Effect</title>
-  <style>
+<style>
     .hover-image {
       position: relative;
       display: inline-block;
@@ -42,12 +36,8 @@
       opacity: 1; /* Make text visible */
       text-decoration: underline; /* Add underline */
     }
-  </style>
-</head>
-<body>
-  <div class="hover-image">
+</style>
+<div class="hover-image">
     <img src="your-image.jpg" alt="Description of Image">
     <span class="hover-text">Hover Text Here</span>
-  </div>
-</body>
-</html>
+</div>
