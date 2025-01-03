@@ -1,3 +1,9 @@
 <h3>My Work in ERIE Lab</h3>
 
-{% include figure popup=true image_path="../haptic-enabled_switch_adapted_toys.jpg" alt="Image of a Haptic-Enabled Switch Adapted Toy" %}
+<div class="image-overlay-container">
+  {% include figure image_path="../haptic-enabled_switch_adapted_toys.jpg" alt="A Haptic-Enabled Switch Adapted Toy" %}
+  <div class="overlay-text">
+    <h3>Haptic-Enabled Switch Adapted Toy</h3>
+    <p>Click to learn more about this project!</p>
+  </div>
+</div>
