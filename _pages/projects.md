@@ -1,15 +1,23 @@
 <h2>Haptic-Enabled Switch Adapted Toys (SAT)s</h2>
 
 <figure class="third">
-
-  [![HESAT 1](../assets/images/hesat/HESAT_1.jpg)](../assets/images/hesat/HESAT_1.jpg)
-  [![HESAT 2](../assets/images/hesat/HESAT_2.jpg)](../assets/images/hesat/HESAT_2.jpg)
-  [![HESAT 3](../assets/images/hesat/HESAT_3.jpg)](../assets/images/hesat/HESAT_3.jpg)
-
-  [![HESAT 4](../assets/images/hesat/HESAT_4.jpg)](../assets/images/hesat/HESAT_4.jpg)
-  [![HESAT 5](../assets/images/hesat/HESAT_5.jpg)](../assets/images/hesat/HESAT_5.jpg)
-  [![HESAT 6](../assets/images/hesat/HESAT_6.jpg)](../assets/images/hesat/HESAT_6.jpg)
-
+  <a href="{{ site.baseurl }}/assets/images/hesat/HESAT_1.jpg">
+    <img src="{{ site.baseurl }}/assets/images/hesat/HESAT_1.jpg" alt="HESAT 1">
+  </a>
+  <a href="{{ site.baseurl }}/assets/images/hesat/HESAT_2.jpg">
+    <img src="{{ site.baseurl }}/assets/images/hesat/HESAT_2.jpg" alt="HESAT 2">
+  </a>
+  <a href="{{ site.baseurl }}/assets/images/hesat/HESAT_3.jpg">
+    <img src="{{ site.baseurl }}/assets/images/hesat/HESAT_3.jpg" alt="HESAT 3">
+  </a>
+  <a href="{{ site.baseurl }}/assets/images/hesat/HESAT_4.jpg">
+    <img src="{{ site.baseurl }}/assets/images/hesat/HESAT_4.jpg" alt="HESAT 4">
+  </a>
+  <a href="{{ site.baseurl }}/assets/images/hesat/HESAT_5.jpg">
+    <img src="{{ site.baseurl }}/assets/images/hesat/HESAT_5.jpg" alt="HESAT 5">
+  </a>
+  <a href="{{ site.baseurl }}/assets/images/hesat/HESAT_6.jpg">
+    <img src="{{ site.baseurl }}/assets/images/hesat/HESAT_6.jpg" alt="HESAT 6">
+  </a>
   <figcaption>Gallery with a three image per row grid.</figcaption>
-
 </figure>
