@@ -1,24 +1,23 @@
----
-title: Projects
-layout: single
-# permalink: /projects/
----
+<h2>Haptic-Enabled Switch Adapted Toys (SAT)s</h2>
 
-# My Projects
+<figure class="third">
+  <a href="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8156-1v (16. Feb. 2021).jpg">
+  <img src="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8156-1v (16. Feb. 2021).jpg"></a>
 
-<div class="project-gallery">
-  <a href="{{ site.baseurl }}/_projects/haptic-enable_switch_adapted_toys.md">
-    <img src="{{ site.baseurl }}/assets/images/haptic-enable_switch_adapted_toys.jpg" alt="Haptic-Enabled Switch Adapted Toys">
-    <span class="project-caption">Haptic-Enabled SATs</span>
-  </a>
+  <a href="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8170-1v (21. Feb. 2021).jpg">
+  <img src="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8170-1v (21. Feb. 2021).jpg"></a>
 
-  <a href="{{ site.baseurl }}/projects/ultrasonic-tibial-nerve-stimulator.md">
-    <img src="{{ site.baseurl }}/assets/images/ultrasonic-tibial-nerve-stimulator.jpg" alt="UTNS">
-    <span class="project-caption">Ultrasonic Tibial Nerve Stimulator</span>
-  </a>
+  <a href="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8171-1v (21. Feb. 2021).jpg">
+  <img src="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8171-1v (21. Feb. 2021).jpg"></a>
 
-  <!-- <a href="{{ site.baseurl }}/projects/project3/">
-    <img src="{{ site.baseurl }}/assets/images/project3.jpg" alt="Project 3">
-    <span class="project-caption">Project 3</span>
-  </a> -->
-</div>
+  <a href="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8161-1v (21. Feb. 2021).jpg">
+  <img src="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8161-1v (21. Feb. 2021).jpg"></a>
+
+  <a href="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8164-1v (21. Feb. 2021).jpg">
+  <img src="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8164-1v (21. Feb. 2021).jpg"></a>
+
+  <a href="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8175-1v (25. Feb. 2021).jpg">
+  <img src="/weekend_stories_pics/2021/2102_Corona_Fruehling/2102 Corona Fruehling 8175-1v (25. Feb. 2021).jpg"></a>
+
+  <figcaption>Gallery with a three image per row grid.</figcaption>
+</figure>
