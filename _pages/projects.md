@@ -2,8 +2,8 @@
 
 <figure class="half">
 
-  <a href="/_portfolio/haptic-enable_switch_adapted_toys.md">
-    <img src="/_portfolio/haptic-enabled_switch_adapted_toys.jpg">
+  <a href="../assets/haptic-enabled_switch_adapted_toys.jpg">
+    <img src="../assets/haptic-enabled_switch_adapted_toys.jpg">
   </a>
 
   <!-- <figcaption>Gallery with a two image per row grid.</figcaption> -->
