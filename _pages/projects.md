@@ -26,9 +26,11 @@ In Summer 2024, I worked on integrating haptic devices into switch-adapted toys 
 
 <h2>Haptic-Enabled Switch Adapted Toys (SAT)s</h2>
 
-<p style="font-size: 0.8em;">
+<div style="font-size: 0.8em;">
+<p>
 In Summer 2024, I worked on integrating haptic devices into switch-adapted toys (SATs) using an ESP32. Haptic devices provide vibrotactile feedback, like a phone’s ringer, while SATs have unique input mechanisms meant for children with cerebral palsy or limited motor function; the input mechanisms can be developed for muscles or movements that the child has precise control of. The goal was to incorporate haptic feedback into the input mechanism, and this would provide an additional stimulus and sensory input for children who are deaf. By the end of the summer, I presented a prototype to the president of ReplayForKids, a nonprofit organization, and received valuable feedback on tailoring the device for educators and therapists.
 </p>
+</div>
 
 <figure style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; text-align: center;">
   <a href="{{ site.baseurl }}/assets/images/hesat/HESAT_1.jpg">
