@@ -39,5 +39,5 @@
 </style>
 <div class="hover-image">
     <img src="your-image.jpg" alt="Description of Image">
-    <span class="hover-text">Hover Text Here</span>
+    <span class="hover-text">Haptic-Enabled Switch Adapted Toys</span>
 </div>
