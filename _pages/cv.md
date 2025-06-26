@@ -1,7 +1,7 @@
 <h2>Education</h2>
 
 **MS Electrical Engineering**  
-Case Western Reserve University, Cleveland, OH
+Case Western Reserve University, Cleveland, OH  
 Expected December 2027
 
 **BS Electrical Engineering**  
