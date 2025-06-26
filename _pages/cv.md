@@ -1,6 +1,10 @@
 <h2>Education</h2>
 
-**BS Electrical & Computer Engineering**  
+**MS Electrical Engineering**
+Case Western Reserve University, Cleveland, OH
+Expected December 2027
+
+**BS Electrical Engineering**  
 Case Western Reserve University, Cleveland, OH  
 Expected May 2027  
   
@@ -9,6 +13,10 @@ St. John's Jesuit High School & Academy, Toledo, OH
 2016-2023
 
 <h2>Work Experience</h2>
+
+<h3>Pickering Interfaces</h3>
+Brecksville, OH
+**Hardware Engineering Co-op**, Beginning August 2025
 
 <h3>SensRx Lab</h3>  
 Case Western Reserve University, Cleveland, OH  
