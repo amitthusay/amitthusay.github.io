@@ -1,6 +1,6 @@
 <h2>Education</h2>
 
-**MS Electrical Engineering**
+**MS Electrical Engineering**  
 Case Western Reserve University, Cleveland, OH
 Expected December 2027
 
