@@ -48,7 +48,7 @@ November 2021 – January 2022
 
 <h3>W8EDU, Radio Club at CWRU</h3>  
 Case Western Reserve University, Cleveland, OH  
-**Licensed Radio Technician**  
+**Licensed General Radio Technician, KF8CFV**  
 
 <h3>Delta Sigma Phi Fraternity</h3>  
 Case Western Reserve University, Cleveland, OH  
