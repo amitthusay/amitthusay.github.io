@@ -16,7 +16,7 @@ St. John's Jesuit High School & Academy, Toledo, OH
 
 <h3>Pickering Interfaces</h3>  
 Brecksville, OH  
-**Hardware Engineering Co-op**, Beginning August 2025  
+**Hardware Engineering Co-op**, August 2025 – Present  
 
 <h3>SensRx Lab</h3>  
 Case Western Reserve University, Cleveland, OH  
