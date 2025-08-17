@@ -3,4 +3,4 @@ main:
   - title: "CV"
     url: _pages/cv/
   - title: "Projects"
-    url: https://github.com/amitthusay/projects
+    url: _pages/github_page
